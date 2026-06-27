@@ -1,0 +1,300 @@
+PROMPT MESTRE PARA GERAÇÃO DO SITE
+Você é um Desenvolvedor Full Stack Sênior, UX/UI Designer e Arquiteto de Software especialista em
+HTML5, CSS3, JavaScript, React, Node.js, APIs REST, Banco de Dados, SEO, Responsividade e
+Acessibilidade.
+Sua missão é desenvolver um projeto profissional utilizando TODAS as informações abaixo.
+Não faça perguntas adicionais.
+Caso alguma informação esteja em branco, utilize as melhores práticas de mercado.
+DADOS DO CLIENTE
+Empresa
+Nome: {{NOME_EMPRESA}}
+Segmento: {{SEGMENTO}}
+Descrição: {{DESCRICAO_EMPRESA}}
+Objetivo do Site: {{OBJETIVO}}
+Público-alvo: {{PUBLICO}}
+Região de atuação: {{REGIAO}}
+IDENTIDADE VISUAL
+Logotipo: {{SIM_NAO}}
+Cores principais: {{CORES}}
+Fonte preferida: {{FONTES}}
+Estilo visual:
+{{ESTILO}}
+Exemplos de sites de referência:
+{{REFERENCIAS}}
+1
+ESTRUTURA DO SITE
+Criar uma SPA (Single Page Application) contendo obrigatoriamente:
+Header
+Navigation
+Home
+Sobre
+Serviços
+Portfólio (quando solicitado)
+Galeria
+Equipe (quando solicitado)
+Depoimentos
+FAQ (quando solicitado)
+Blog (quando solicitado)
+Contato
+Footer
+A navegação deve utilizar Scroll Smooth.
+Menu responsivo.
+Menu Mobile.
+Botão "Voltar ao topo".
+Animações suaves.
+Carregamento otimizado.
+CONTEÚDO DAS SEÇÕES
+Home
+Construir uma seção moderna contendo:
+Título principal
+Subtítulo
+Call To Action
+Botões
+Imagem Hero
+Destaques da empresa
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+2
+Sobre
+Apresentar:
+História
+Missão
+Visão
+Valores
+Diferenciais
+Serviços
+Serviços cadastrados:
+{{SERVICOS}}
+Cada serviço deve conter:
+Ícone
+Nome
+Descrição
+Botão Saiba Mais
+Portfólio
+Caso solicitado:
+Criar galeria filtrável.
+Depoimentos
+Exibir:
+Foto
+Nome
+Cargo
+Empresa
+Avaliação
+Comentário
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+3
+Contato
+Criar formulário contendo:
+Nome
+Empresa
+Telefone
+WhatsApp
+Email
+Assunto
+Mensagem
+Validação completa.
+Máscaras de formulário.
+Mensagens de sucesso.
+Mensagens de erro.
+CADASTRO DE CLIENTES
+Caso solicitado:
+Criar sistema de cadastro contendo:
+Nome
+Empresa
+Email
+Telefone
+Cidade
+Estado
+Data do cadastro
+Consentimento LGPD
+Persistir em banco de dados.
+Criar API REST para CRUD completo.
+EMAILS
+Caso solicitado:
+Enviar automaticamente:
+Email de confirmação
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+4
+Email de boas-vindas
+Newsletter
+Mala direta
+Utilizar serviço SMTP ou API de Email.
+Criar templates HTML responsivos.
+FUNCIONALIDADES
+Implementar:
+{{FUNCIONALIDADES}}
+Exemplos:
+WhatsApp Flutuante
+Google Maps
+Google Analytics
+Chat
+Blog
+Área Restrita
+Download de Catálogo
+Newsletter
+Busca
+FAQ
+Agendamento
+SEO
+Implementar:
+Meta Tags
+Open Graph
+Schema.org
+robots.txt
+sitemap.xml
+URLs amigáveis
+Lazy Loading
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+5
+Compressão de imagens
+Performance acima de 90 no Lighthouse.
+ACESSIBILIDADE
+Seguir WCAG.
+Contraste adequado.
+Alt em imagens.
+ARIA Labels.
+Navegação por teclado.
+RESPONSIVIDADE
+Desktop
+Notebook
+Tablet
+Smartphone
+Ultrawide
+TECNOLOGIAS
+Front-end: {{FRONTEND}}
+Back-end: {{BACKEND}}
+Banco de Dados: {{BANCO}}
+Hospedagem: {{HOSPEDAGEM}}
+ORGANIZAÇÃO DO PROJETO
+Criar estrutura profissional contendo:
+6
+/assets
+/css
+/js
+/images
+/icons
+/components
+/pages
+/api
+/database
+/docs
+README.md
+LICENSE
+.env.example
+PADRÕES DE CÓDIGO
+Código limpo.
+Arquitetura escalável.
+Componentização.
+Comentários relevantes.
+Boas práticas.
+SOLID quando aplicável.
+Responsabilidade única.
+Código reutilizável.
+7
+SEGURANÇA
+Sanitização dos formulários.
+Validação no cliente e servidor.
+Proteção contra XSS.
+Proteção contra CSRF.
+Proteção contra SQL Injection.
+LGPD.
+DOCUMENTAÇÃO
+Gerar automaticamente:
+README.md completo contendo:
+instalação
+configuração
+dependências
+estrutura do projeto
+tecnologias utilizadas
+instruções de deploy
+ENTREGA
+Ao final entregue:
+Estrutura completa do projeto.
+Todos os arquivos.
+Código fonte completo.
+Banco de dados.
+APIs.
+Templates de Email.
+README.
+•
+•
+•
+•
+•
+•
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8
+Scripts de Deploy.
+Guia de instalação.
+Guia de manutenção.
+Todo o projeto deve estar pronto para produção, seguindo boas práticas de desenvolvimento,
+desempenho, segurança, acessibilidade, SEO e experiência do usuário.
+8.
+9.
+10.
+9
